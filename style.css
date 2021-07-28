@@ -1,3 +1,4 @@
+
 .top-bg{
     background: #264653;
 }
@@ -20,4 +21,12 @@
 .mybtn:hover{
     background:#E76F51;
     color:white;
+}
+.mycolor{
+       color: #E76F51;
+}
+.mytext a{
+    text-decoration: none;
+    color: white;
+    margin: 5px;
 }
