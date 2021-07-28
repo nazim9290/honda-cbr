@@ -1,0 +1,23 @@
+.top-bg{
+    background: #264653;
+}
+
+.button-bg{
+    background:#E76F51;
+}
+.gray{
+    filter: grayscale(1);
+}
+.mybtn{
+    color: #E76F51;
+    border:1px solid #E76F51;
+    text-align: center;
+    width: 130px;
+    padding: 10px;
+    background-color: white;
+    border-radius: 5px;
+}
+.mybtn:hover{
+    background:#E76F51;
+    color:white;
+}
