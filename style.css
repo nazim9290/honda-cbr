@@ -5,6 +5,7 @@
 
 .button-bg{
     background:#E76F51;
+    border-radius: 5px;
 }
 .gray{
     filter: grayscale(1);
